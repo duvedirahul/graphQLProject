@@ -1,0 +1,15 @@
+main {
+  margin-top: 80px;
+  padding: 20px 1rem;
+  min-height: calc(100vh - 130px);
+}
+
+.form-label.required:after {
+  content: " *";
+  color: red;
+}
+
+footer {
+  color: #ffffff;
+  height: 50px;
+}
