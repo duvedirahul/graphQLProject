@@ -1,6 +1,6 @@
 # GraphQL-app
-IdeaPad Web Application (MERN Stack)
-IdeaPad is a web application built using the MERN stack (MongoDB, Express.js, React, Node.js) that allows users to manage the employee directory. The application utilizes apollo server to query the monngo db data.   
+Graph QL Project is Web Application (MERN Stack)
+Graph QL Project is a web application built using the MERN stack (MongoDB, Express.js, React, Node.js) that allows users to manage the employee directory. The application utilizes apollo client server to query the mongo db data.   
 
 Technologies Used
 MongoDB: A NoSQL database used to store user and idea data in a flexible, scalable format.  
